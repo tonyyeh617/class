@@ -1,0 +1,10 @@
+# Django SQLite 資料庫
+# 將資料庫檔案忽略
+# db.sqlite3
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# 排程下載紀錄
+scripts/fetch_all_prices.log
