@@ -1,6 +1,6 @@
 # Django SQLite 資料庫
 # 將資料庫檔案忽略
-# db.sqlite3
+db.sqlite3
 
 # Python cache files
 __pycache__/
